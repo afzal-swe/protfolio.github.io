@@ -1,0 +1,44 @@
+.about-area{
+  .about-img{
+    img{
+      height: 445px;
+      width: 500px;
+      padding: 3px;
+    }
+  }
+  .about-content{
+    h2{
+      font-size: 50px;
+      line-height: 60px;
+      text-transform: capitalize;
+      font-weight: 800;
+      color: $heading_color;
+    }
+    h4{
+      font-size: 20px;
+      text-transform: capitalize;
+    }
+    p{
+      
+    }
+    .row{
+      ul{
+        li{
+          text-transform: capitalize;
+          font-size: 18px;
+          margin-bottom: 10px;
+          i{
+            color: $primary_color;
+            // margin-right: 5px;
+          }
+        }
+      }
+      a{
+
+      }
+    }
+  }
+  .btn-primary{
+
+  }
+}
